@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@tatisanti1513",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/tatisanti1513?utm_source=qr&igsh=ZXdvYzZoYjAwaDJj."
       },
       {
         "name": "Facebook",
         "description": "Dulce capricho nails",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/share/sMeNvQN7K1T769FW/?mibextid=qi2Omg "
       }
     ]
   },
